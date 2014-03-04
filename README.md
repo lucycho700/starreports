@@ -23,9 +23,7 @@ starreports
 <!--WEBBOT bot="Include" u-include="includes/logo.htm" tag="BODY" startspan --><strong>Cafe Astrology .com</strong><!--webbot bot="Include" i-checksum="36940" endspan --></td>
 </tr>
 <tr>
-<td class="headercontent2">
-<a href="http://www.anrdoezrs.net/click-1149484-10306258" target="_top">
-<img src="http://www.awltovhc.com/image-1149484-10306258" width="468" height="60" alt="Free Karma Report" border="0"></a></td>
+
 </tr>
 <tr>
 <td class="global">
@@ -133,74 +131,7 @@ Home</a></p><p> </p>
 
 
 
-<p align="center"> </p>
-<p align="center">
-<a href="http://www.dpbolvw.net/i6104efolfn2447C7B72435BA3C9" target="_top" onmouseover="window.status='http://www.astrology.com';return true;" onmouseout="window.status=' ';return true;">
-<img src="http://www.ftjcfx.com/g7116o26v0zKMMPUPTPKMLNTSLUR" alt="Free Sample Sexual Soul Mates Reading for two" border="0"></a>
-</p>
-<p align="center"> </p>
-
-            <p> </p></td><td class="sidebar" width="231">
-<table width="100%">
-<tbody><tr>
-<td class="navigation">
-<h4 style="text-align: center">Site Menu:</h4>
-<p style="text-align: center">
-<a href="http://cafeastrology.com/astrologyreports.html">Astrology Reports</a><br>
-<a href="http://cafeastrology.com/natalastrology.html">Birth Chart Interpretations</a><br>
-<a href="http://cafeastrology.com/astrologyforecasts.html">Horoscopes & Forecasts</a><br>
-<a href="http://cafeastrology.com/astrologyarticles.html">Astrology Articles</a><br>
-<a href="http://cafeastrology.com/articles/lovesexastrology.html">Astrology of Love & Sex</a><br>
-<a href="http://cafeastrology.com/askannie.html">Ask Annie</a><br>
-<a href="http://cafeastrology.com/celebrityastrology.html">Famous People</a><br>
-<a href="http://cafeastrology.com/signsofthezodiac.html">Signs of the Zodiac</a><br>
-<a href="http://cafeastrology.com/articles/planetsinastrology.html">Planets & Points</a><br>
-<a href="http://cafeastrology.com/articles/venusvenussynastry.html">Love Sign Compatibility</a><br>
-<a href="http://cafeastrology.com/birthdays.html">Birthdays & Divining Arts</a><br>
-<a href="http://cafeastrology.com/astrology_of_relationships.html">Synastry/Relationships</a><br>
-<a href="http://cafeastrology.com/predictiveastrology.html">Predictive Astrology</a><br>
-<a href="http://cafeastrology.com/astrologytoolstables.html">Astrology Tools & Tables</a><br>
-<a href="http://cafeastrology.com/astrologyreference.html">Astrology Reference</a><br>
-<a href="http://cafeastrology.com/astrologyreviews.html">Astrology Book Reviews</a><br>
-<a href="http://cafeastrology.com/astrologicalresources.html">Resources & Links</a><br>
-<a href="http://cafeastrology.com/astrologyreportsfree.html">Free Reports & Calculations</a><br>
-</p></td>
-</tr>
-</tbody></table>
-<hr>
-<table width="100%">
-<tbody><tr>
-<td class="hottopic">
-<h4>About  Astrology:</h4>
-<p style="text-align: center"><img border="0" src="/images/buttons/iconinfo.jpg" width="30" height="22" class="imageleft"><a href="http://cafeastrology.com/whatisastrology.html">What 
-is Astrology?</a></p><p style="text-align: center">
-<a href="http://cafeastrology.com/articles/signsofthezodiac.html">Read descriptions of each zodiac sign</a></p><p style="text-align: center">
-Do you like what you see?
-We offer <b>detailed Astrology reports</b> - birth chart, compatibility, romance, future 
-forecasts, and more...<a href="http://cafeastrology.com/astrologyreports.html">Astrology reports</a>. 
-While not all birth locations are included in the free database, our software 
-for paid reports is comprehensive. <b>Double check your birth data with us for free</b> by sending your complete birth information to reports@cafeastrology.com</p>
-<p> </p></td>
-</tr>
-</tbody></table>
-<p> </p></td>
-
-</tr>
-</tbody></table>
-<table width="750">
-<tbody><tr>
-<td class="footer"><!--WEBBOT bot="Include" u-include="includes/footer.htm" tag="BODY" startspan -->
-
-<p class="tiny">CafeAstrology.com © 2002-2013 |
-<a href="http://www.cafeastrology.com/index.html">Home</a> | 
-<a href="http://www.cafeastrology.com/astrologyarticles.html">Articles</a> | 
-<a href="http://www.cafeastrology.com/buyastrologybooks.html">Books</a> | 
-<a href="http://www.cafeastrology.com/astrologypictures.html">Astrology Art</a> | 
-<a href="http://www.cafeastrology.com/contact.html">Contact</a> | 
-<a href="http://www.cafeastrology.com/siteindex.html">Site Map</a> | 
-<a href="http://www.cafeastrology.com/search.html">Search</a></p><!--webbot bot="Include" i-checksum="62046" endspan --></td>
-</tr>
-</tbody></table>
+<>
 </div>
 
 
@@ -208,7 +139,3 @@ for paid reports is comprehensive. <b>Double check your birth data with us for f
 
 
 </body></html>
-
-
-Much appreciation, have a splendid day!
-Lex
