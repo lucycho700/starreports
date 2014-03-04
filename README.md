@@ -1,4 +1,4 @@
-starreports
+Natal Chart
 ===========
 
 <html><head>
@@ -12,43 +12,14 @@ starreports
 </head>
 
 <body style="-webkit-text-size-adjust: 75%;">
-
-<div align="center">
-<table class="header" width="750">
-<tbody><tr>
-<td>
-<table width="100%">
-<tbody><tr>
-<td class="yourname">
-<!--WEBBOT bot="Include" u-include="includes/logo.htm" tag="BODY" startspan --><strong>Cafe Astrology .com</strong><!--webbot bot="Include" i-checksum="36940" endspan --></td>
-</tr>
-<tr>
-
-</tr>
-<tr>
-<td class="global">
-<a href="http://www.cafeastrology.com/index.html">Cafe Astrology Home</a></td>
-</tr>
-</tbody></table>
-
-</td>
-</tr>
-</tbody></table>
-<table width="750">
-<tbody><tr>
-
-<td class="content">
-<h1>
-<!--WEBBOT bot="Navigation" S-Type="banner" S-Orientation="horizontal" S-Rendering="text" startspan --><!--webbot bot="Navigation" i-checksum="0" endspan --></h1>
-              
-<h1>Birth chart</h1>
-<hr color="Red">
-<table width="100%">
-<tbody><tr>
+<h2>Birth chart</h2>
+<hr color="Red"><tr>
 <td colspan="2">
+
 <form method="get" action="/cgi-bin/astro/natal">
-<table width="100%" border="2" cellpadding="5">
-<tbody><tr>
+<table width="50%" border="2" cellpadding="5">
+<tbody>
+<tr>
 <td>
 <input type="HIDDEN" name="member" value="">
 <input type="HIDDEN" name="recalc" value="">
@@ -72,7 +43,7 @@ Man <input type="radio" name="sex" value="t" checked=""> Woman<input type="radio
 </td>
 </tr>
 <tr>
-<td>Enter the time of birth with the correct format. Put local legal time, do not adjust for summer time - Its automatic!<br>Use the formats 2:12 am, 2:15 pm, or 14h15<br>
+<td>Enter the time of birth with the correct format.<br>Use the formats 2:12 am, 2:15 pm, or 14h15<br>
 <table cellpadding="5">
 <tbody><tr>
 <td>
@@ -90,7 +61,7 @@ Time unknown
 </td>
 </tr>
 <tr>
-<td>There is a data base of localities.  Enter at least the first 3 letters to choose in the list.<br>
+<td>Enter at least the first 3 letters to choose in the list.<br>
 <table cellpadding="5" width="100%">
 <tbody><tr>
 <td width="60">
@@ -104,38 +75,30 @@ Birthplace
 </td>
 </tr>
 </tbody></table>
+<tr><td align="center">
+<p><b>Tips for Entry of Birth Data:</b></p><p><b>IMPORTANT: For best results, enter your birth city ONLY on the first screen. </b>On the subsequent screen, select your exact birth location from the list. If your birth place is Dallas, Texas, try entering "Dallas" only. On the next screen, you will be able to choose from a list of Dallas locations. The atlas database doesn't recognize accented letters, so for a location such as Montreal, Quebec, Canada, please enter "Montr" only on the first screen.</b></p>
+
+
+
+
 </td>
 </tr>
 <tr><td align="center">
 <input type="SUBMIT" value="OK" width="150">
 <input type="RESET" value="Reset" width="150">
+
 </td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+
 </form>
 </td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
 
-<hr>
-
-
-
-            <p> </p><p><a href="http://cafeastrology.com">Go to Cafe Astrology Home</a></p><p>
-<a href="http://astro.cafeastrology.com/index.html">Back to Free Reports 
-Home</a></p><p> </p>
-              <p><b>Tips for Entry of Birth Data:</b></p><p><b>IMPORTANT: For best results, enter your birth city ONLY on the first screen. </b>On the subsequent screen, select your exact birth location from the list. If your birth place is Dallas, Texas, try entering "Dallas" only. On the next screen, you will be able to choose from a list of Dallas locations. The atlas database doesn't recognize accented letters, so for a location such as Montreal, Quebec, Canada, please enter "Montr" only on the first screen.</p>
-
-<p>Some time zones are unknown in this database. If you see a message next to the time entry, "Time Zone Not Sure", you may need to correct the numerical value in the field. Send us an email at reports@cafeastrology.com for help.</p><p><b>IMPORTANT: Double check your data</b> by sending an email to reports@cafeastrology.com with your full birth information. Not all time zones are accurate in this online database. Our offline software has a comprehensive atlas, however, so it's a good idea to check that the output is accurate with us first.</p><p align="center"> </p>
-              <hr>
-
-
-
-<>
 </div>
-
-
-
 
 
 </body></html>
